@@ -53,6 +53,7 @@ Our mission is to bridge the gap between business needs and technology by provid
 ---
 
 ## 📁 Folder Structure
+```bash
 BinaryVelocity_Pvt_Ltd/ 
 ├── frontend/ # Frontend source code 
 ├── backend/ # Backend APIs and server 
@@ -61,7 +62,7 @@ BinaryVelocity_Pvt_Ltd/
 ├── designs/ # UI/UX design files
 ├── deployments/ # Deployment configurations 
 └── README.md # Project overview
-
+```
 ---
 
 ## 🚀 Getting Started
